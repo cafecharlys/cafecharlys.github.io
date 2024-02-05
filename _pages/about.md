@@ -26,9 +26,10 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Cómprame un cafe</h5>
 
-<p>Si a disfrutado de nuestros servicios! Usted puede ayudar a mantener nuestra web haciendo una donación.
+<p>Si a disfrutado de nuestros servicios! Usted puede ayudar a mantener nuestra web haciendo una donación.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a>
+
 </div>
 </div>
 </div>
