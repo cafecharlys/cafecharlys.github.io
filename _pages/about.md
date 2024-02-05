@@ -20,15 +20,13 @@ comments: true
 <p>Carlos <a href="">here</a>!</p>
 
 </div>
+</div>
 
 <div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Cómprame un cafe</h5>
-
-<p>Si a disfrutado de nuestros servicios! Usted puede ayudar a mantener nuestra web haciendo una donación.
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a>
-</div>
-</div>
+    <div class="sticky-top sticky-top-80">
+        <h5>Cómprame un cafe</h5>
+        <p>Si a disfrutado de nuestros servicios! Usted puede ayudar a mantener nuestra web haciendo una donación.
+            <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a>
+        </p>
+    </div>
 </div>
