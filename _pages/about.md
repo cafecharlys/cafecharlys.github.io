@@ -10,7 +10,6 @@ comments: true
 
 <p>Este sitio presenta el proyecto de la cafetería Charly's. La misma brinda servicio de var cafetería, presentando una variedad de ofertas.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Trabajadores</h4>
 
 <p>Carlos Manuel <a href="">here</a>.</p>
