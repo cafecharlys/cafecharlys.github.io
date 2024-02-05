@@ -8,14 +8,17 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Este sitio presenta el proyecto de la cafetería Charly's. La misma brinda servicio de var cafetería, presentando una variedad de ofertas.</p>
+![assets/images/logo.png "Logo Cafetería Charly's"]("Logo Cafetería Charly's")
+<p>Cafetería Charly’s es un proyecto no estatal enclavado en el municipio Antilla de la Provincia Holguín, Cuba. El mismo brinda un servicio de bar cafetería, con una variedad de ofertas para los diversos gustos.</br>
+
+Contamos con las licencias y permisos necesarios para el correcto funcionamiento de nuestro negocio.</p>
 
 <h4>Trabajadores</h4>
 
 <p>Carlos Manuel <a href="">here</a>.</p>
 <p>Nayla <a href="">here</a>.</p>
 
-<h4>Titular</h4>
+<h4>Titular del Negocio</h4>
 
 <p>Carlos <a href="">here</a>!</p>
 
