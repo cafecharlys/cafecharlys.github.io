@@ -8,7 +8,7 @@ image: assets/images/galleta-cremelo.jpg
 description: "Ricas galleticas cremelo."
 featured: true
 hidden: true
-rating: .5
+rating: 5
 ---
 
 Galleticas Cremelo rellenas, el paquetico trae 4 ricas galleticas rellenas.

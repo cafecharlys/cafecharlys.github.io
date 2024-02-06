@@ -8,7 +8,7 @@ image: assets/images/galleta-zuma.jpg
 description: "Ricas galleticas Zuma."
 featured: true
 hidden: true
-rating: .5
+rating: 4.5
 ---
 
-Galleticas Zuma, las hay de distintos sabores, rellenas y de soda.
+Galleticas Zuma, rellenas y de soda.
