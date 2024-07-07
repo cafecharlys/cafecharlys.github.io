@@ -18,17 +18,17 @@ authors:
     display_name: Carlos
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: czaldivarp@nauta.cu
-    web: https://dto2.cubava.cu
+    web: https://cz9dev.cubava.cu
     twitter: https://twitter.com/czaldivarp
-    description: "Creador de contenido y titular de la cafetería Charly's."
+    description: "Desarrollador de aplicaciones, creador de contenido y titular de la cafetería Charly's."
   cmaguilera:
     name: cmaguilera
     display_name: Carlos Manuel
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: czaldivarp@gmail.com
-    web: https://cmaguilera.cubava.cu
+    email:cmaguileralopez94@gmail.com
+    web: https://
     twitter: https://twitter.com/cmaguilera
-    description: "Creador de contenido y logístico de la cafetería Charly's."
+    description: "Creador de contenido en cafeteria charly's, logístico de la cafetería Charly's."
 
 # Plugins
 plugins:

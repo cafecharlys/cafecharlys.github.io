@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Cerveza Cristal de lata"
+author: czaldivarp
+categories: [ Bebidas ]
+tags: [ cerveza ]
+image: assets/images/cerveza-cristal-lata.jpeg
+description: "Cerveza cristal de lata."
+featured: true
+hidden: true
+rating: 5
+---
+
+Cerveza cristal de lata, la preferia de Cuba, oferta muy recomendada, es un gusto para todo cubano probar nuestra cerveza preferida.
