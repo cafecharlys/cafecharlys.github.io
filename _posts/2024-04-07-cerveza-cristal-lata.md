@@ -4,7 +4,7 @@ title:  "Cerveza Cristal de lata"
 author: czaldivarp
 categories: [ Bebidas ]
 tags: [ cerveza ]
-image: assets/images/cerveza-cristal-lata.jpeg
+image: assets/images/cerveza-cristal-cristal-lata.jpg
 description: "Cerveza cristal de lata."
 featured: true
 hidden: true

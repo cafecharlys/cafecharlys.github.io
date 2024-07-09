@@ -4,7 +4,7 @@ title:  "Malta bucanero"
 author: czaldivarp
 categories: [ Bebidas ]
 tags: [ cerveza ]
-image: assets/images/malta-bucanero.jpeg
+image: assets/images/malta-bucanero.jpg
 description: "Malta bucanero."
 featured: true
 hidden: true

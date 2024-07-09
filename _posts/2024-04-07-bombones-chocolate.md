@@ -4,7 +4,7 @@ title:  "Bombones de chocolate"
 author: czaldivarp
 categories: [ Confituras ]
 tags: [ cerveza ]
-image: assets/images/bombones-chocolate.jpeg
+image: assets/images/bombones-chocolate.jpg
 description: "Bombones de chocolate."
 featured: true
 hidden: true
