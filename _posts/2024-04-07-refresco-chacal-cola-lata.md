@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Refresco de Cola, lata"
+title:  "Refresco de Cola, Chacal"
 author: czaldivarp
 categories: [ Bebidas ]
 tags: [ refrescos ]
