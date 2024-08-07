@@ -5,7 +5,9 @@ permalink: /contact
 comments: false
 ---
 
-<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/422a376c2d343c4e5dc57d6f2dc08bb9?embedded=1"></div>
+Usted puede contactarnos por el siguiente formulario para cualquier sugerencia o inquietud.
+
+<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/93cacc54d6ad34bf2889a7d416e43284?embedded=1"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
 <script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
