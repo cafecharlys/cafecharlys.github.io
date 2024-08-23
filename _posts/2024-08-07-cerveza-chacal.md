@@ -4,7 +4,7 @@ title:  "Cerveza Chacal"
 author: czaldivarp
 categories: [ Bebidas ]
 tags: [ cerveza ]
-image: assets/images/cerveza-chacal.jpg
+image: assets/images/carveza-chacal.jpg
 description: "Cerveza chacal de lata."
 featured: true
 hidden: true
