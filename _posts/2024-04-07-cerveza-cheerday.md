@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ cerveza ]
 image: assets/images/cerveza-cheerday.webp
 description: "Cerveza cheerday."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---

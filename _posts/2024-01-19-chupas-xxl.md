@@ -6,7 +6,7 @@ categories: [ Confituras, Caramelos ]
 tags: [fresa, uva, naranja]
 image: assets/images/11.jpg
 description: "Chupas XXL de sabores variados."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---

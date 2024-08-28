@@ -2,7 +2,7 @@
 layout: page
 title: Cafetería Charly's
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">

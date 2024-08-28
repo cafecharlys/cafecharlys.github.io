@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ zoda ]
 image: assets/images/galleta-brinky.png
 description: "Galleta de zoda."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ chocolate ]
 image: assets/images/choco-bolas.jpeg
 description: "Botonetas de Chocolate y maní."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

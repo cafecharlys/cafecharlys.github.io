@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ cerveza ]
 image: assets/images/cerveza-cristal-botella.jpeg
 description: "Cerveza cristal de botella."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---

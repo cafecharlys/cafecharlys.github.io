@@ -6,7 +6,7 @@ categories: [ Confituras, Galletas ]
 tags: [fresa, chocolate, naranja, vainilla]
 image: assets/images/galleta-cremelo.jpg
 description: "Ricas galleticas cremelo."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

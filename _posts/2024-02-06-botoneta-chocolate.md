@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ chocolate, maní ]
 image: assets/images/botoneta-chocolate.png
 description: "Botonetas de Chocolate y maní."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---

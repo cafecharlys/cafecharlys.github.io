@@ -6,7 +6,7 @@ categories: [ Confituras, Galletas ]
 tags: [fresa, chocolate, naranja, vainilla, soda]
 image: assets/images/galleta-zuma.jpg
 description: "Ricas galleticas Zuma."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---

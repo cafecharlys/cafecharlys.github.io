@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ cerveza ]
 image: assets/images/cerveza-parranda.jpg
 description: "Cerveza parranda."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---

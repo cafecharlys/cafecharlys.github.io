@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ cerveza ]
 image: assets/images/cerveza-belga-start.jpeg
 description: "Cerveza belga start."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---

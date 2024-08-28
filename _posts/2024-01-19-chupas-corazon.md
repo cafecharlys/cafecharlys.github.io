@@ -6,7 +6,7 @@ categories: [ Confituras, Caramelos ]
 tags: [fresa, uva, naranja]
 image: assets/images/chupa-corazon.jpg
 description: "Chupas con formas de corazón."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---

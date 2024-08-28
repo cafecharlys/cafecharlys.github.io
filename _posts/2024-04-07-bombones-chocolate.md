@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ cerveza ]
 image: assets/images/bombones-chocolate.jpg
 description: "Bombones de chocolate."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

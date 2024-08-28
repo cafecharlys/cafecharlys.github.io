@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ zoda ]
 image: assets/images/galleta-zoda-original.jpeg
 description: "Galleta de zoda."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---
