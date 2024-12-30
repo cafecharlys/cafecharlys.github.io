@@ -7,7 +7,7 @@ tags: [ cerveza ]
 image: assets/images/cerveza-cristal-cristal-lata.jpg
 description: "Cerveza cristal de lata."
 featured: false
-hidden: true
+hidden: false
 rating: 5
 ---
 

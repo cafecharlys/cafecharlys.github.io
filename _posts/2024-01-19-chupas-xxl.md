@@ -7,7 +7,7 @@ tags: [fresa, uva, naranja]
 image: assets/images/11.jpg
 description: "Chupas XXL de sabores variados."
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 

@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ refrescos ]
 image: assets/images/energizante-chacal.jpg
 description: "Energizante chacal."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---

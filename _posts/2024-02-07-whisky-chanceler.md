@@ -7,7 +7,7 @@ tags: [ whisky ]
 image: assets/images/whisky-chanceler.jpg
 description: "Whisky Chanceler."
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 

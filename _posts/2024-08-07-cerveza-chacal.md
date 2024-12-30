@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ cerveza ]
 image: assets/images/carveza-chacal.jpg
 description: "Cerveza chacal de lata."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---

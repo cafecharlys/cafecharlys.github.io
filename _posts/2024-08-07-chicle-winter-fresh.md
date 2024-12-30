@@ -7,7 +7,7 @@ tags: [ chicle ]
 image: assets/images/chicle-winterfresh.jpg
 description: "Chicle mentolado winterfresh."
 featured: true
-hidden: true
+hidden: false
 rating: 5
 ---
 

@@ -7,7 +7,7 @@ tags: [ cerveza ]
 image: assets/images/cerveza-cristal-botella.jpeg
 description: "Cerveza cristal de botella."
 featured: false
-hidden: true
+hidden: false
 rating: 4
 ---
 

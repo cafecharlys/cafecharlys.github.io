@@ -7,7 +7,7 @@ tags: [fresa, chocolate, naranja, vainilla]
 image: assets/images/galleta-cremelo.jpg
 description: "Ricas galleticas cremelo."
 featured: false
-hidden: true
+hidden: false
 rating: 5
 ---
 

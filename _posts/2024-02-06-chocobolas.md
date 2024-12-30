@@ -7,7 +7,7 @@ tags: [ chocolate ]
 image: assets/images/choco-bolas.jpeg
 description: "Botonetas de Chocolate y maní."
 featured: false
-hidden: true
+hidden: false
 rating: 5
 ---
 

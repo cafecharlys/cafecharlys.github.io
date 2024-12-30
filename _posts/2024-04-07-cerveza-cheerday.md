@@ -7,7 +7,7 @@ tags: [ cerveza ]
 image: assets/images/cerveza-cheerday.webp
 description: "Cerveza cheerday."
 featured: false
-hidden: true
+hidden: false
 rating: 4
 ---
 

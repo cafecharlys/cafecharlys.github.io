@@ -7,7 +7,7 @@ tags: [ calditos ]
 image: assets/images/caldito-pollo-zer.jpg
 description: "Caldito de pollo Zer."
 featured: true
-hidden: true
+hidden: false
 rating: 4.5
 ---
 

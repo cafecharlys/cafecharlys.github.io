@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ confituras criollas ]
 image: assets/images/ponquesito.jpg
 description: "Ponquesito cubierto con chocolate."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

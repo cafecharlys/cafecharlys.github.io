@@ -7,7 +7,7 @@ tags: [ cerveza ]
 image: assets/images/cerveza-parranda.jpg
 description: "Cerveza parranda."
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 

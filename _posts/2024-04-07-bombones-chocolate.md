@@ -7,7 +7,7 @@ tags: [ cerveza ]
 image: assets/images/bombones-chocolate.jpg
 description: "Bombones de chocolate."
 featured: false
-hidden: true
+hidden: false
 rating: 5
 ---
 

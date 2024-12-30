@@ -7,7 +7,7 @@ tags: [fresa, chocolate, naranja, vainilla, soda]
 image: assets/images/galleta-zuma.jpg
 description: "Ricas galleticas Zuma."
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 

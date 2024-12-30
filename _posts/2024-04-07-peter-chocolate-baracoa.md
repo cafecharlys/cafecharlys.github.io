@@ -6,7 +6,7 @@ categories: [ Confituras ]
 tags: [ cerveza ]
 image: assets/images/peter-chocolate-baracoa.jpg
 description: "Peter de chocola de Baracoa Cuba."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

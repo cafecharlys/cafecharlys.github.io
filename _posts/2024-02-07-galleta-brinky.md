@@ -7,7 +7,7 @@ tags: [ zoda ]
 image: assets/images/galleta-brinky.png
 description: "Galleta de zoda."
 featured: false
-hidden: true
+hidden: false
 rating: 5
 ---
 

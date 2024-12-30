@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ cerveza ]
 image: assets/images/malta-bucanero.jpg
 description: "Malta bucanero."
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

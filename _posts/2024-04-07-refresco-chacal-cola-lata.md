@@ -6,7 +6,7 @@ categories: [ Bebidas ]
 tags: [ refrescos ]
 image: assets/images/refresco-lata-cola-chacal.jpeg
 description: "Refresco chacal sabor cola."
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---
