@@ -27,9 +27,14 @@ Contamos con las licencias y permisos necesarios para el correcto funcionamiento
 <div class="sticky-top sticky-top-80">
 <h5>Cómprame un cafe</h5>
 
-<p>Si a disfrutado de nuestros servicios! Usted puede ayudar a mantener nuestra web haciendo una donación.</p>
+<p>¡Si a disfrutado de nuestros servicios! ó deceas apollar nuestro proyecto puede hacer una donación.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a>
+<!-- <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> -->
+
+<figure>
+  <img src="/assets/images/donate/enzona-cafeteria.png" width="100" height="100" alt="ENZONA">  
+  <figcaption>Donar utilizando enzona</figcaption>
+</figure>
 
 </div>
 </div>
