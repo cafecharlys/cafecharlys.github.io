@@ -32,12 +32,12 @@ Contamos con las licencias y permisos necesarios para el correcto funcionamiento
 <!-- <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> -->
 
 <figure>
-  <img src="/assets/images/donate/enzona-cafeteria.png" width="200" height="200" alt="ENZONA">  
+  <img src="/assets/images/donate/enzona-cafeteria.png" width="150" height="150" alt="ENZONA">  
   <figcaption>Donar utilizando enzona, utilizar opción de pago en linea</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/donate/QvaPay-cz9dev.png" width="200" height="200" alt="QVAPAY">  
+  <img src="/assets/images/donate/QvaPay-cz9dev.png" width="150" height="150" alt="QVAPAY">  
   <figcaption>Donar utilizando qvapay</figcaption>
 </figure>
 
