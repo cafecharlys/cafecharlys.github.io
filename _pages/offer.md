@@ -52,4 +52,4 @@ Usted puede disfrutar de nuestras **ofertas**. Si deseas más datos solo _solic�
 | Apático de afeitar 🪒                     |una            | $60    |
 | Sazón Iberia                              |uno            | $70    |
 
-Estás ofertas se irán actualizando semanalmente, trabajamos para su satisfacción. Gracias y tenga un buen provecho ☺️ 
+Estás ofertas se irán actualizando semanalmente, trabajamos para su satisfacción, si usted decea dejarnos una sigerencia o agradecimiento puede hacerlo utilizando nuestro formulario de contato siguiendo el siguiente [enlace](/contact). Gracias y tenga un buen provecho ☺️ 
