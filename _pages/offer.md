@@ -5,8 +5,6 @@ permalink: /offer
 comments: false
 ---
 
-# Ofertas 
-
 Usted puede disfrutar de nuestras **ofertas**. Si deseas más datos solo _solicítelo_ al personal de servicio 
 
 |  Producto                            | unidad medida | Precio |
